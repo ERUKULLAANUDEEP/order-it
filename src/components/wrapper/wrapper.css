@@ -1,0 +1,10 @@
+div.wrapper {
+    display: flex;
+    flex-flow: row wrap;
+    height: 500px;
+    justify-content: space-between;
+    padding-left: 30px;
+    padding-right: 30px;
+    position: relative;
+    top:50px;
+}
